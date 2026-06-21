@@ -14,7 +14,7 @@
 
 Изучаю системный анализ и проектирование информационных систем, развиваюсь в направлении System Analyst / Business Analyst.
 
-📚 Что умею
+ 📚 Навыки
 
 Работа с требованиями
 
@@ -40,8 +40,7 @@
 
 - REST API
 - JSON
-- XML
-- Swagger/OpenAPI
+- Swagger
 - SQL
 - PostgreSQL
 - Kafka (базовый уровень)
@@ -58,53 +57,15 @@
 
 - Jira
 - Confluence
-- Draw.io
 - PlantUML
 - Figma
 - Postman
-- Git
-- GitHub
-- Notion
-
-
- 🛠 Навыки и стек
-
- Анализ и моделирование
-
-- BPMN 2.0
-- UML
-- User Story
-- Use Case
-- BRD
-- SRS
-
- Базы данных
-
-- SQL
-- PostgreSQL
-
- Интеграции
-
-- REST API
-- Swagger
-- Postman
-- JSON
-- XML
-- Kafka
-
- Инструменты
-
-- Jira
-- Confluence
-- Draw.io
-- PlantUML
-- Figma
-- Git
 - GitHub
 
  Методологии
 
 - Agile
+- WaterFall
 - Scrum
 - Kanban
 
